@@ -102,7 +102,7 @@ O dicionário de dados é o seguinte:
 
 Com as respostas no arquivo, o último passo é realizar a submissão. Será aceita somente uma submissão para o desafio, então teste bem antes de fazer o envio.
 
-Para realizar a submissão, você deverá acessar a página do desafio: [https://maratona.dev/challenges/5](https://maratona.dev/challenges/5) e enviar o arquivo CSV com as respostas, juntamente com um arquivo `.zip`, de até 10MB, contendo o código fonte da solução (lembre-se de remover dependências e datasets para não ocupar espaço). A página fará um teste para verificar se o arquivo CSV está no formato correto.
+Para realizar a submissão, você deverá acessar a página do desafio: [https://maratona.dev/challenge/5](https://maratona.dev/challenge/5) e enviar o arquivo CSV com as respostas, juntamente com um arquivo `.zip`, de até 10MB, contendo o código fonte da solução (lembre-se de remover dependências e datasets para não ocupar espaço). A página fará um teste para verificar se o arquivo CSV está no formato correto.
 
 Você poderá acompanhar o status da submissão acessando a [página do desafio](https://maratona.dev/challenge/5), logando na sua conta.
 
