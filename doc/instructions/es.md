@@ -38,7 +38,7 @@ El desafío es un problema común en el campo de la ciencia de datos. Un cliente
 
 ## 3. Objetivo
 
-El desafío es implementar un algoritmo de Machine Learning para la clasificación binaria, capaz de identificar si un cliente se perderá o no.
+El desafío es implementar un algoritmo de Machine Learning para la clasificación binaria, capaz de identificar si un cliente se abandonará la empresa o no.
 
 ## 4. Tecnologias aplicadas
 
@@ -52,7 +52,7 @@ Para este desafío se utilizarán los siguientes servicios de IBM Cloud:
 
 Para realizar este desafío, deberás cumplir con los siguientes requisitos previos:
 
-- Registrarte en la [Maratón Behind the Code](https://maratona.dev/?register=true) y confirmar su correo electrónico de registro;
+- Registrarte en la [Maratón Behind the Code](https://maratona.dev/?register=true) y confirmar tu correo electrónico de registro;
 - Tener una [cuenta de IBM Cloud](https://ibm.biz/Bdf8dW), que puede ser Lite o Pay-As-You-Go (no es necesario registrarse para el evento con la misma dirección de correo electrónico utilizada para crear su cuenta de IBM Cloud).
 
 ### 5.2. Resumen de Tareas
@@ -60,9 +60,9 @@ Para realizar este desafío, deberás cumplir con los siguientes requisitos prev
 1. Crear una instancia de los servicios de desafío en IBM Cloud: Object Storage y Watson Studio (opcionales);
 2. Explorar y tratar la base de datos disponible;
 3. Crear un modelo de aprendizaje automático para realizar una clasificación binaria;
-4. Cambiar, validar y probar su modelo de Machine Learning, hasta que esté satisfecho con el resultado;
+4. Cambiar, validar y probar tu modelo de Machine Learning, hasta que estés satisfecho con el resultado;
 5. Cambiar el [archivo de respuesta](../../assets/data/ANSWERS.csv) agregando las clasificaciones del modelo;
-6. Enviar su solución en la [página del desafío](https://maratona.dev/challenge/5).
+6. Enviar tu solución en la [página del desafío](https://maratona.dev/challenge/5).
 
 ### 5.3. Desarollo
 
@@ -112,7 +112,7 @@ Una semana después del inicio del desafío, nuestro sistema de evaluación auto
 
 El desafío debe ser entregado hasta el 12 de diciembre, y el participante recibirá una bonificación del 10% de la puntuación total (10 puntos), independientemente del resultado de su desafío. Por tanto, la puntuación máxima posible es 110 (puntuación de 100 + bonificación de 10).
 
-Después del plazo de envío, el participante aún puede realizar su envío hasta el 12 de diciembre, pero sin recibir el bono.
+Después del plazo de envío, el participante aún puede realizar su envío hasta el 12 de diciembre, pero sin recibir la bonificación.
 
 **Atención**: el tiempo de entrega es un criterio de desempate, en caso de dos soluciones con la misma puntuación. Nos reservamos el derecho de darle a um envío cero de puntuación si:
 
