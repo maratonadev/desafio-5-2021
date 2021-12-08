@@ -58,7 +58,7 @@ Para realizar este desafío, deberás cumplir con los siguientes requisitos prev
 ### 5.2. Resumen de Tareas
 
 1. Crear una instancia de los servicios de desafío en IBM Cloud: Object Storage y Watson Studio (opcionales);
-2. Explorar y tratar la base de datos disponible;
+2. Explorar y tratar [los datos disponibles](../../assets/data/dataset.csv) ;
 3. Crear un modelo de aprendizaje automático para realizar una clasificación binaria;
 4. Cambiar, validar y probar tu modelo de Machine Learning, hasta que estés satisfecho con el resultado;
 5. Cambiar el [archivo de respuesta](../../assets/data/ANSWERS.csv) agregando las clasificaciones del modelo;
@@ -70,7 +70,7 @@ El desafío es utilizar un algoritmo de aprendizaje automático de aprendizaje s
 
 Las calificaciones deben guardarse en el archivo [ANSWERS.csv](../../assets/data/ANSWERS.csv), tal como aparecen en el conjunto de datos (`Yes` o` No`). Todos los clientes deben tener una calificación.
 
-El diccionario de datos es el siguiente:
+El diccionario de [los datos](../../assets/data/dataset.csv) es el siguiente:
 
 | Columna          | Descripción                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ |
