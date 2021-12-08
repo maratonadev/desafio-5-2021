@@ -58,7 +58,7 @@ Para realizar esse desafio você deverá cumprir os seguintes pré-requisitos:
 ### 5.2. Resumo das Tarefas
 
 1. Instanciar os serviços do desafio na IBM Cloud: Object Storage e Watson Studio (opcionais);
-2. Explorar e tratar a base de dados disponível;
+2. Explorar e tratar a [base de dados disponível](../../assets/data/dataset.csv);
 3. Criar um modelo de Machine Learning para realizar classificação binária;
 4. Alterar, validar e testar o seu modelo de Machine Learning, até estar satisfeito com o resultado;
 5. Alterar o [arquivo de respostas](../../assets/data/ANSWERS.csv), adicionando classificações de seu modelo;
@@ -70,7 +70,7 @@ O desafio consiste no uso de um algoritmo de Machine Learning de aprendizagem su
 
 As classificações devem ser salvas no arquivo [ANSWERS.csv](../../assets/data/ANSWERS.csv), da mesma forma como aparercem no dataset (`Yes` ou `No`). Todos os clientes precisam ter uma classificação.
 
-O dicionário de dados é o seguinte:
+O dicionário de [dados](../../assets/data/dataset.csv) é o seguinte:
 
 | Coluna           | Descrição                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ |
