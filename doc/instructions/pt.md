@@ -30,7 +30,7 @@ Desde 1974, a missão da empresa tem sido agregar valor às atividades e negóci
 
 ### 1.2. Premiação
 
-As top 5 melhores pessoas colocadas vão receber um prêmio de US$ 350 cada.
+As top 5 melhores pessoas colocadas vão receber um voucher de US$ 350 cada.
 
 ## 2. Desafio de negócio
 
